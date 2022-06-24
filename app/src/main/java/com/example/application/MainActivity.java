@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     Toolbar toolbar;
 
     nte_ajRlPpI push = null;
-
+// 수정사항 테스트
     nte_ajRlCpDS ntaRCDS ;
     String dd;
     // Notivication에 대한 ID 생성
